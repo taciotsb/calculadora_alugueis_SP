@@ -1,3 +1,1 @@
-# Projeto da Calculadora de Aluguel
-
-Repositório para o projeto de calculadora de aluguel da turma de novembro de Data Science da Awari
+Calculadora de aluguéis utilizando o WebScraping do site VivaReal, do estado de SP, e posteriormente utilizando técnicas de machine learning para previsão de preços.
